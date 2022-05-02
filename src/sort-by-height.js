@@ -16,6 +16,11 @@ function sortByHeight(/* arr */) {
   // remove line with error and write your code here
 }
 
+
+
+
+
+
 module.exports = {
   sortByHeight
 };
